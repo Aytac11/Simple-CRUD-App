@@ -138,7 +138,7 @@
 
             // show update button again
             var btUpdate = document.getElementById('Edit' + (activeRow - 1));
-            btUpdate.setAttribute('style', 'display:block; margin:0 auto; background-color:#44CCEB;');
+            btUpdate.setAttribute('style', 'margin:0 auto; background-color:#44CCEB;');
 
             var tab = document.getElementById('user').rows[activeRow];
 
